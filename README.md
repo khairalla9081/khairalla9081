@@ -1,10 +1,12 @@
 ### Hi I'm Gustavo M Khairalla 👋
 
+<div>
+          
+![Github status](https://github-readme-stats.vercel.app/api?username=khairalla9081&count_private=true&show_icons=true&theme=dark)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KHAIRALLA9081&show_icons=true&theme=dark)
 
-![Github status](https://github-readme-stats.vercel.app/api?username=khairalla9081&count_private=true&show_icons=true&theme=)
-
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KHAIRALLA9081&show_icons=true&theme=)
-
+</div>
+          
 ## Languages and Tools:
 <p align="left">
           <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a>
