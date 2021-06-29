@@ -1,9 +1,4 @@
-### Hi there 👋
-
-<!--
-**khairalla9081/khairalla9081** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+### Hi I'm Gustavo M Khairalla 👋
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -12,5 +7,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+![Github status](https://github-readme-stats.vercel.app/api?username=khairalla9081&count_private=true&show_icons=true&theme=radical)
+
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KHAIRALLA9081&show_icons=true&theme=radical)
