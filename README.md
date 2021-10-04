@@ -11,7 +11,7 @@
 <p align="left">
           <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a>
           <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>
-
+          <a href="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.mMnmPSFtqbmGBnuhCAKAeQAAAA%26pid%3DApi&f=1" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a>
 </p>
 
 ## Connect with me:
