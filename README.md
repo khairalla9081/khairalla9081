@@ -9,7 +9,6 @@
           
 ## Languages and Tools:
 <p align="left">
-          <a href="" target="_blank"> <img src="https://www.kali.org/images/favicon-dark.png">
           <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a>
           <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>
 
