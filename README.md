@@ -13,7 +13,7 @@
           <a href="https://git-scm.com/" height="150" width="40" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>
           <a href="https://www.debian.org/" target="_blank"> <img src="https://www.debian.org/favicon.ico"/> </a>
           
-          <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png">
+          <a <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png"> </a>
 
 </div>
 
