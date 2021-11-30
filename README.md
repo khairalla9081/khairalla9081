@@ -8,11 +8,11 @@
 </div>
      
 ## Languages and Tools:
-<div style="display: inline_block"><br>
-          <a href="https://www.python.org" height="150" width="40" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a>
-          <a href="https://git-scm.com/" height="150" width="40" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>
-          <a href="https://www.debian.org/" target="_blank"> <img src="https://www.debian.org/favicon.ico"/> </a>
-          <img alt="The C" height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png"/>
+<div style="display: inline_block"><br>        
+          <img alt="The Python" height="45" width="45" src="https://img.icons8.com/color/48/000000/python.png"/>
+          <img alt="Git" height="45" width="45" src="https://img.icons8.com/color/48/000000/git.png"/>
+          <img alt="Debina Linux" height="45" width="45" src="https://www.debian.org/favicon.ico"/>
+          <img alt="The C" height="45" width="45" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png"/>
 </div>
 
 
