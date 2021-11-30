@@ -12,9 +12,10 @@
           <a href="https://www.python.org" height="150" width="40" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a>
           <a href="https://git-scm.com/" height="150" width="40" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>
           <a href="https://www.debian.org/" height="150" width="40" target="_blank"> <img src="https://www.debian.org/favicon.ico"/> </a>
-          <a href="https://www.learn-c.org/" height="150" width="40" target="_blank"> <img src="https://www.learn-c.org/static/img/favicons/learn-c.org.ico"/> </a>
+          <a height="150" width="40" href="https://www.learn-c.org/" target="_blank"> <img src="https://www.learn-c.org/static/img/favicons/learn-c.org.ico"/> </a>
 
 </div>
+
 
 ## Connect with me:
 <p align="left">
