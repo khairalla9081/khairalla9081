@@ -13,6 +13,7 @@
           <img alt="Git" height="45" width="45" src="https://img.icons8.com/color/48/000000/git.png"/>
           <img alt="Debina Linux" height="45" width="45" src="https://www.debian.org/favicon.ico"/>
           <img alt="The C" height="45" width="45" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png"/>
+          <img alt="The Bash" height="45" width="45" src="https://blog.toright.com/wp-content/uploads/2019/05/bash.png"/>
 </div>
 
 
